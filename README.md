@@ -1,14 +1,20 @@
 # nuxt-verify-code
 
+> 📱 verification code component for Nuxt
+
 ## see the demo
 
 - [Demo](https://alexangum.ru/)
 
 ## install dependencies
+```bash
 npm install
+```
 
 ## run project
+```bash
 npm run dev
+```
 
 ## usage
 
