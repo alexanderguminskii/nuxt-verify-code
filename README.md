@@ -1,6 +1,6 @@
 # nuxt-verify-code
 
-> 📱 verification code component for Nuxt
+> 📱 Verification code component for NuxtJs. Writing on Composition API with TypeScript.
 
 ## Live demo
 
