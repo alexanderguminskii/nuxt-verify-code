@@ -1,18 +1,16 @@
 # nuxt-verify-code
 
-## See the demo
+## see the demo
 
 - [Demo](https://alexangum.ru/)
 
-## Build Setup
+## install dependencies
+npm install
 
-# install dependencies
-$ npm install
+## run project
+npm run dev
 
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-## Usage
+## usage
 
 ```jsx
 <template>
