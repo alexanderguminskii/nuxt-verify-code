@@ -4,13 +4,13 @@
 
 ## see the demo
 
-- [Demo](https://alexangum.ru/)
+- [Demo](https://alexanderguminskii.github.io/nuxt-verify-code/)
 
 ## install dependencies
 ```bash
 npm install
 ```
-
+ 
 ## run project
 ```bash
 npm run dev
