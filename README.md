@@ -2,21 +2,21 @@
 
 > 📱 verification code component for Nuxt
 
-## see the demo
+## Live demo
 
 - [Demo](https://alexanderguminskii.github.io/nuxt-verify-code/)
 
-## install dependencies
+## Install dependencies
 ```bash
 npm install
 ```
- 
-## run project
+
+## Run project
 ```bash
 npm run dev
 ```
 
-## usage
+## Usage
 
 ```jsx
 <template>
